@@ -2,20 +2,15 @@
 
 > **Read-only archive of released versions of ianm/log-viewer.** Not for installation: use [Packagist](https://packagist.org/packages/ianm/log-viewer) or the [upstream repository](https://github.com/imorland/flarum-ext-log-viewer).
 
-**6** versions archived · Latest: [`2.0.0-beta.2`](https://github.com/flarchive/ianm-log-viewer/tree/archive/v2.0.0-beta.2) (stable: [`0.1.0`](https://github.com/flarchive/ianm-log-viewer/tree/archive/v0.1.0)) · License: `MIT` · Flarum: `^2.0.0`
+**0** versions archived · Latest: [`2.1.0`](https://github.com/flarchive/imorland-flarum-ext-log-viewer/tree/archive/v2.1.0) · License: `MIT` · Flarum: `^2.1.0-beta.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `0.1.0` | 2022-11-09 | `^1.2.0` | [Browse](https://github.com/flarchive/ianm-log-viewer/tree/archive/v0.1.0) |
-| `0.1.1` | 2022-11-16 | `^1.2.0` | [Browse](https://github.com/flarchive/ianm-log-viewer/tree/archive/v0.1.1) |
-| `1.0.0` | 2025-12-17 | `^1.2.0` | [Browse](https://github.com/flarchive/ianm-log-viewer/tree/archive/v1.0.0) |
-| `1.0.1` | 2026-02-23 | `^1.2.0` | [Browse](https://github.com/flarchive/ianm-log-viewer/tree/archive/v1.0.1) |
-| `2.0.0-beta.1` | 2025-12-17 | `^2.0.0` | [Browse](https://github.com/flarchive/ianm-log-viewer/tree/archive/v2.0.0-beta.1) |
-| `2.0.0-beta.2` | 2026-02-23 | `^2.0.0` | [Browse](https://github.com/flarchive/ianm-log-viewer/tree/archive/v2.0.0-beta.2) |
+| — | — | — | — |
 
-Catalog entry: [packages/ianm-log-viewer.json](https://github.com/flarchive/archive-index/blob/main/packages/ianm-log-viewer.json)
+Catalog entry: [packages/imorland-flarum-ext-log-viewer.json](https://github.com/flarchive/archive-index/blob/main/packages/imorland-flarum-ext-log-viewer.json)
 
 ## About this archive
 
